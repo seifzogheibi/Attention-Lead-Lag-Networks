@@ -1,7 +1,7 @@
 # Investor Attention and Lead–Lag Networks in U.S. Equities
 
 **Author:** Seif Zogheibi
-**Context:** Individual capstone project, Data Structures and Algorithms, MSc FinTech, Imperial College Business School
+**Context:** Individual capstone project, Data Structures and Algorithms, MSc Financial Technology, Imperial College London
 
 ## Overview
 
